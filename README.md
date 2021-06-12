@@ -1,16 +1,14 @@
-### Hi there 👋
+Hey there, I'm Simran, Welcome to my github profile!👋
 
-<!--
-**simrandysanic/simrandysanic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student in KIIT, pursuing CSE. 
+I'm keenly interested in Web Development and App Development equally, along with a some AI/ML, cloud and any other tech-related domain.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on my enriching my skills in C :sparkles:
+- 🌱 I’m currently looking to learn C++ / Java. 
+- 👯 I’m looking to collaborate on App Development (Learn and work together).
+- 🤔 I’m looking for help with tips in basic problem - solving skills in programming.
+- 💬 Ask me about anything you want to know.
+- 📫 How to reach me: simrantps@gmail.com
+- 😄 Pronouns: She:)
+- ⚡ Fun fact: I'm a beginner aspiring to learn more than I know :information_desk_person:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
