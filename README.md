@@ -1,8 +1,31 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
 
-Hey there, I'm Simran, Welcome to my github profile!👋
+# Hey there, I'm Simran! 👋
+Welcome to my github profile!
 
-- 📫 How to reach me: simrantps@gmail.com
+
+## About Me
 - 😄 Pronouns: She:)
-- ⚡ Fun fact: I'm a beginner aspiring to learn more than I know :information_desk_person:
+- I'm a B.Tech CSE student in India
+
+
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simran2552?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BlR9bMGtSQUicpQm8huKRmA%3D%3D)
+
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SimranP91492690)
+
+
+## More About Me
+👩‍💻 I'm currently working on developing my coding skills
+
+👯‍♀️ I'm looking to collaborate on learning together
+
+💬 Ask me about my skills and interests
+
+📫 How to reach me: Gmail: simrantps@gmail.com
+
+⚡ Fun fact: I'm aspiring to learn more than I know
+
+## 🛠 Skills
+C, C++, Java, HTML, CSS
 
