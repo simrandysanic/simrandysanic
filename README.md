@@ -25,7 +25,9 @@ Welcome to my github profile!
 ⚡ Fun fact: I'm aspiring to learn more than I know
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simrandysanic&show_icons=true&theme=omni)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simrandysanic&show_icons=true&theme=dark)-->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🛠 Technology and Tools
 C, C++, Java, HTML, CSS
