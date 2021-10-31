@@ -9,6 +9,7 @@ Welcome to my github profile!
 
 
 ## 🔗 Links
+<a href="http://i.imgur.com/wWzX9uB.png"></a> 
 [1.2]: http://i.imgur.com/wWzX9uB.png 
 [2.2]: http://i.imgur.com/9I6NRUm.png 
 [3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png 
