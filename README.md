@@ -9,10 +9,8 @@ Welcome to my github profile!
 
 
 ## 🔗 Links
-<a href="http://i.imgur.com/wWzX9uB.png"></a> 
-[1.2]: http://i.imgur.com/wWzX9uB.png 
-[2.2]: http://i.imgur.com/9I6NRUm.png 
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png 
+[![Gmail Badge](https://img.shields.io/badge/-simrantps@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:simrantps@gmail.com)](mailto:simrantps@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-simran2552-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/simran2552/)](https://www.linkedin.com/in/simran2552/) [![Github Badge](https://img.shields.io/badge/-simrandysanic-grey?style=flat&logo=github&logoColor=white&link=https://github.com/simrandysanic/)](https://www.github.com/simrandysanic/) [![Twitter Badge](https://img.shields.io/badge/-SimranP91492690-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/SimranP91492690/)](https://www.twitter.com/SimranP91492690/) 
 
 
 ## More About Me
