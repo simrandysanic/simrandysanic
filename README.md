@@ -24,6 +24,9 @@ Welcome to my github profile!
 
 ⚡ Fun fact: I'm aspiring to learn more than I know
 
-## 🛠 Skills
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simrandysanic)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🛠 Technology and Tools
 C, C++, Java, HTML, CSS
 
