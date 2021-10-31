@@ -10,8 +10,9 @@ Welcome to my github profile!
 
 
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simran2552?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BlR9bMGtSQUicpQm8huKRmA%3D%3D) [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SimranP91492690)
-
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon with padding)
+[2.2]: http://i.imgur.com/9I6NRUm.png (github icon with padding)
+[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon with padding)
 
 ## More About Me
 👩‍💻 I'm currently working on developing my coding skills
