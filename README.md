@@ -4,8 +4,7 @@ Welcome to my github profile!
 
 
 ## About Me
-- 😄 Pronouns: She:)
-- I'm a B.Tech CSE student in India
+I am currently an Undergraduate pursuing CSE. I enjoy learning:)
 
 
 ## 🔗 Links
